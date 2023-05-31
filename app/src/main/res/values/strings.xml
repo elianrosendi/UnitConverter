@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Unit converter</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Press Calculate</string>
+    <string name="input">Amount to convert</string>
+    <string-array name="distance">
+        <item>cm</item>
+        <item>mts</item>
+        <item>km</item>
+        <item>milles</item>
+        <item>inches</item>
+    </string-array>
+    <string-array name="volume">
+        <item>cm3</item>
+        <item>mts3</item>
+        <item>mllts</item>
+        <item>lts</item>
+    </string-array>
+    <string-array name="distanceAndVolume">
+        <item>cm</item>
+        <item>mts</item>
+        <item>km</item>
+        <item>milles</item>
+        <item>inches</item>
+        <item>cm3</item>
+        <item>mts3</item>
+        <item>mllts</item>
+        <item>lts</item>
+    </string-array>
+</resources>
